@@ -49,7 +49,7 @@ mse = mean_squared_error(y_test,y_pred)
 print("Mean Squared Error:",mse)
 print("\nPredictions:\n",y_pred[:5])
 
-
+```
 
 ## Output:
 ![7](https://github.com/user-attachments/assets/fdd42f83-74cf-451a-8e33-49b37078d472)
